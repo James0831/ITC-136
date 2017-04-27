@@ -1,0 +1,40 @@
+    1  sudo su
+    2  whoami
+    3  ps
+    4  ps aux
+    5  ps aux | more
+    6  ps aux |more
+    7  ps aux | grep firefox
+    8  kill 3149
+    9  ps aux | grep terminal
+   10  kill 1881
+   11  top
+   12  lsof | more
+   13  sudo su
+   14  sudu su
+   15  sudo su
+   16  /Desktop echo "text" >> test.text
+   17  cd ~
+   18  cd ~/Desktop
+   19  echo "text" >> test.text
+   20  vi test.sh
+   21  echo $PATH
+   22  lsof -i
+   23  history
+   24  cd ..
+   25  history
+   26  sudo su
+   27  exit
+   28  git
+   29  cd ITC-136
+   30  git
+   31  ls -;
+   32  ls -l
+   33  ls - ltra
+   34  ls -ltra
+   35  cd .git
+   36  ls -la
+   37  cd ..
+   38  git config --global user.email "jdcarroll08@gmail.com"
+   39  git config --global user.name "James0831" cd .git
+   40  history >> firstconfig.history
